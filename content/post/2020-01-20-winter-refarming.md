@@ -1,13 +1,11 @@
 ---
-title: Winter Refarming
+title: Winter ReFarming
 author: Walt Ludwick
 date: '2020-01-20'
-slug: winter-refarming
 categories:
   - FarmLog
-tags: []
-description: ''
-thumbnail: 'post/2020-01-20-winter-refarming_files/almondFlower,HugeThumbnail.jpeg'
+slug: winter-refarming
+thumbnail: post/2020-01-20-winter-refarming_files/almondFlower,HugeThumbnail.jpeg
 ---
 Beautiful time of year here, in this landscape so liberally sprinkled with almond flowers -introduced as a form of artificial snow, [according to legend](https://portuguesecooking.wordpress.com/2017/12/18/legend-of-the-almond-tree-blossom/).  Beautiful, but also challenging, in that Good Stewardship of these trees and the soil in which they grown involves a lot of work that needs doing in this short winter season, when days are short and weather unpredictable.
 
