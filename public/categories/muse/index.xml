@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muse on ReFarmer.net</title>
+    <link>/categories/muse/</link>
+    <description>Recent content in Muse on ReFarmer.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/muse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Fork</title>
+      <link>/post/the-fork/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-fork/</guid>
+      <description>&amp;ldquo;When you come to a fork in the road, take it!&amp;rdquo; quoth the late great Yogi Berra, who rates second to none in the ranks of our great American folk heroes, as much for these gnomic words of wisdom as for his immortal achievements on the baseball diamond. Let the post-modern deconstructivists make of this what they will; any ReFarmer worth his salt holds this wisdom close at heart, without having to think too much about it.</description>
+    </item>
+    
+  </channel>
+</rss>
