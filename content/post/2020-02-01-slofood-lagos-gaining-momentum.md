@@ -16,7 +16,7 @@ As we are challenged by the growing number of discriminating consumers to explai
 - **Seasonal**: Meals & menus on the farm are based on _what's coming out of our fields this week_, and eat what's out-of-season only in the form of preserves.
 - **Local**: We give affirmative action for the most local sources, i.e.
   - 1st choice: our own production
-  - 2nd choice: what's produced on neighboring farms
+  - 2nd choice: what we procure from neighboring farms
   - 3rd choice: "imports" that are otherwise consistent with our Ethics
 - **Organic**: We abide by standards required for Bio certification, and beyond...
   - avoidance of noxious chemicals and GMO's (the minimum required for "Bio" certification), and moreover...
