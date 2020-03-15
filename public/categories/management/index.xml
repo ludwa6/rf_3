@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Management on ReFarmer.net</title>
+    <link>/categories/management/</link>
+    <description>Recent content in Management on ReFarmer.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>REAL Organic Standards</title>
+      <link>/post/real-organic-standards/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/real-organic-standards/</guid>
+      <description>While government-approved organic certification standards are a good thing to have, they are by no means a guarantee that the produce under the label is of the highest nutritional quality. Indeed, as anyone who&amp;rsquo;s seen the film &amp;ldquo;Keeping the Soil in Organic&amp;rdquo; must admit, the standard -at least in USA (i.e. USDA Ceritified Organic)- is so broad as to admit of some very unhealthful practices&amp;hellip; And because those practices are essential to the profitiability of those big agri-businesses that have lobbied successfully to protect them, they are in fact coming to increasingly dominate the organic food supply chain.</description>
+    </item>
+    
+  </channel>
+</rss>
